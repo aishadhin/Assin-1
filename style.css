@@ -1,0 +1,166 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.m-100{
+    margin: 100px;
+}
+.mlr-100{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.hero-sec{
+    display: flex;
+}
+.hero-cta{
+    width: 50%;
+    margin-top: 100px;
+}
+.hero-img{
+    width: 50%;
+    text-align: center;
+    margin-top: 70px;
+}
+.hero-img img{
+    width: 70%;
+}
+.hero-head{
+    border-left: 5px solid #d14a69;
+    padding-left: 20px;
+}
+h2{
+    font-size: 46px;
+}
+h3{
+    font-size: 36px;
+}
+.h2-color {
+    color: #8043a2;
+}
+.h3-color {
+    color: #8043a2;
+}
+.h3-color span {
+    color: #d14a69;
+}
+.h2-color span {
+    color: #d14a69;
+}
+a {
+    text-decoration: none;
+    background: #ff2c5c;
+    color: #fff;
+    padding: 8px 20px;
+    font-size: 14px;
+    border-radius: 4px;
+    margin-top: 15px;
+}
+.hero-text{
+    margin-bottom: 30px;
+}
+.hero-text-2{
+    margin-top: 30px;
+}
+
+.mission-head h3{
+    text-align: center;
+}
+.mission-part{
+    display: flex;
+}
+.wd-30{
+    width: 30%;
+}
+.wd-48{
+    width: 48%;
+}
+.wd-30 img{
+    width: 100px;
+}
+.mi{
+    background: #ff6e6e36;
+    padding: 20px 20px 20px 20px;
+    border-radius: 7px;
+}
+.mi img{
+    margin-top:6px;
+}
+.vi{
+    background: #40ff0026;
+    margin-left: 57px;
+    padding: 20px 20px 20px 20px;
+    border-radius: 7px;
+}
+.go{
+    background: #49171717;
+    margin-left: 57px;
+    padding: 20px 20px 20px 20px;
+    border-radius: 7px;
+}
+.dev-sec{
+    display: flex;
+    background-image: url(img/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left ;
+    background-size: 20%;
+}
+.dev-img-part img{
+    width: 70%;
+}
+.dev-img-part{
+    text-align: center;
+}
+.dev-sec-2{
+    display: flex;
+    background-image: url(img/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom ;
+    background-size: 20%;
+}
+.dev-img-part-2 img{
+    width: 70%;
+}
+.dev-img-part-2{
+    text-align: center;
+}
+.team{
+    padding: 50px 0;
+    display: flex;
+    background:#ffb24e29;
+    text-align: center;
+}
+.member{
+    margin: 20px 40px;
+}
+.member-1{
+    margin-top:80px;
+}
+.member-3{
+    margin-top:75px;
+}
+.member img{
+    width: 80%;
+}
+.member h4{
+    font-size: 18px;
+    margin: 0;
+}
+.member span{
+    font-size: 14px;
+}
+.team-sec{
+    text-align: center;
+}
+footer{
+    padding: 30px 0;
+    background: #00008bc9;
+    text-align: center;
+    color: #fff;
+}
+footer h3{
+    margin: 0;
+}
+footer p{
+    margin: 0;
+}
